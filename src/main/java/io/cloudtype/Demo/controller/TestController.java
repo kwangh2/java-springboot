@@ -1,4 +1,4 @@
-package java.io.cloudtype.Demo.controller;
+package io.cloudtype.Demo.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
